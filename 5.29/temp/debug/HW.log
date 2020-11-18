@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+D:\desktop\109360234_邵明諒HW3-2\5.29\source\main.c(15,23): warning C4101: 'i': 未參考的區域變數
+D:\desktop\109360234_邵明諒HW3-2\5.29\source\main.c(15,18): warning C4101: 'temp': 未參考的區域變數
+  HW.vcxproj -> D:\desktop\109360234_邵明諒HW3-2\5.29\HW\HW\..\..\temp\debug\HW.exe
